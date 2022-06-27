@@ -8,12 +8,9 @@ https://user-images.githubusercontent.com/37317157/176022224-ad0473d8-b182-44cb-
 
 
 
-
-
 ## Collegare i pulsanti a raspberry
 
 https://user-images.githubusercontent.com/37317157/176022196-9fdb25dc-8c41-4ad6-8a02-37064ad747c1.mp4
-
 
 
 
@@ -28,7 +25,20 @@ https://user-images.githubusercontent.com/37317157/176018566-add1cf07-c615-43d5-
 https://user-images.githubusercontent.com/37317157/176018686-cdb41813-6708-4d67-9808-05444a7b6e7d.mp4
 
 
+
 ## Portare i file video su raspberry
 
 https://user-images.githubusercontent.com/37317157/176018694-872df8c5-8982-401f-b026-1a8890d1971e.mp4
+
+
+
+## Test finale
+
+https://user-images.githubusercontent.com/37317157/176032932-030e7367-0e40-423b-b111-47d6fedbb9e7.mp4
+
+
+## Comportamento
+
+
+https://user-images.githubusercontent.com/37317157/176033016-8ecd244e-8b42-4243-a83f-97786892f663.mp4
 
