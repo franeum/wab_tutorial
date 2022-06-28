@@ -20,7 +20,21 @@ https://user-images.githubusercontent.com/37317157/176018566-add1cf07-c615-43d5-
 
 
 
-## Preparare i file video 
+## Preparare i file video
+
+Un file video sarà proiettato in seguito alla pressione di un pulsante. Per associare un file ad un determinato pulsante è necessario che il nome del file sia preceduto dal numero del pulsante, espresso nella forma `n_`, dove `n` è il numero del pulsante. Ad esempio se ho i seguenti file:
+
+```
+pippo.mp4
+pluto.mp4
+```
+
+e voglio associare il primo al pulsante 1 e il secondo al pulsante 2, dovrò rinominare i file nel modo seguente:
+
+```
+1_pippo.mp4
+2_pluto.mp4
+```
 
 https://user-images.githubusercontent.com/37317157/176018686-cdb41813-6708-4d67-9808-05444a7b6e7d.mp4
 
