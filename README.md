@@ -1,6 +1,19 @@
-# wab_tutorial
-world in a box tutorial
+# *The World in a Box* tutorial
 
+---
+
+## Indice
+
+1. [Preparare i pulsanti](#preparare-i-pulsanti)
+2. [Collegare i pulsanti a raspberry](#collegare-i-pulsanti-a-raspberry)
+3. [Collegare il display a raspberry](#collegare-il-display-a-raspberry)
+4. [Preparare i file video](#preparare-i-file-video)
+5. [Portare i file video su raspberry](#portare-i-file-video-su-raspberry)
+6. Test
+    - [Panoramica del prodotto finito](#test-finale)
+    - [Comportamento](#comportamento)
+
+---
 
 ## Preparare i pulsanti...
 
@@ -55,13 +68,13 @@ https://user-images.githubusercontent.com/37317157/176032932-030e7367-0e40-423b-
 
 ## Comportamento
 
-L'interfaccia per lo spettatore è la seguente: 2 pulsanti, ognuno dei quali attiva un video. Dopo aver premuto un pulsante il video parte e, durante il *playback* i pulsanti vengono disattivati. Al termine della riproduzione i pulsanti tornano attivi, in modo che lo spettatore successivo possa selezionare nuovamente un video da proiettare.
+L'interfaccia per lo spettatore è la seguente: 2 pulsanti, ognuno dei quali attiva un video. Dopo aver premuto un pulsante, il video parte e, durante il *playback*, i pulsanti vengono disattivati. Al termine della riproduzione i pulsanti tornano attivi, in modo che lo spettatore successivo possa selezionare nuovamente un video da proiettare.
 
 Flusso di comportamento dei pulsanti-spettatore: 
 
 1.  premi un pulsante
 1.  il video va in riproduzione e i pulsanti diventano **disattivi** per tutta la durata della riproduzione
-2.  il *playback termina*, i pulsanti tornano di nuovo **attivi**
+2.  il *playback termina*, i pulsanti tornano **attivi**
 3.  ricomincia dall'inizio
 
 Un terzo pulsante, detto *di regia*, sulla base del tipo di azione,permette di:
