@@ -57,6 +57,13 @@ https://user-images.githubusercontent.com/37317157/176032932-030e7367-0e40-423b-
 
 ## Comportamento
 
+L'interfaccia per lo spettatore è la seguente: 2 pulsanti, ognuno dei quali attiva un video. Dopo aver premuto un pulsante il video parte e, durante il *playback* i pulsanti vengono disattivati. Al termine della riproduzione i pulsanti tornano attivi, in modo che lo spettatore successivo possa selezionare nuovamente un video da proiettare.
+
+Un terzo pulsante, detto *di regia*, permette di:
+
+- mettere in pausa un video in esecuzione o di ricominciare il *playback* se in pausa (pressione breve del pulsante)
+- spegnere o accendere l'applicazione (pressione lunga del pulsante)
+
 
 https://user-images.githubusercontent.com/37317157/176033016-8ecd244e-8b42-4243-a83f-97786892f663.mp4
 
