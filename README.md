@@ -38,8 +38,6 @@ e voglio associare il primo al pulsante 1 e il secondo al pulsante 2, dovrò rin
 
 A questo punto sarà il software ad effettuare l'associazione con i pulsanti. E' opportuno che la cartella `VIDEO`, che contiene i file dei video, non abbia più di un file che inizi con lo stesso prefisso nella forma `n_`. In sostanza, è preferibile che la cartella contenga esclusivamente i due file da proiettare.
 
----
-
 https://user-images.githubusercontent.com/37317157/176018686-cdb41813-6708-4d67-9808-05444a7b6e7d.mp4
 
 
@@ -59,10 +57,17 @@ https://user-images.githubusercontent.com/37317157/176032932-030e7367-0e40-423b-
 
 L'interfaccia per lo spettatore è la seguente: 2 pulsanti, ognuno dei quali attiva un video. Dopo aver premuto un pulsante il video parte e, durante il *playback* i pulsanti vengono disattivati. Al termine della riproduzione i pulsanti tornano attivi, in modo che lo spettatore successivo possa selezionare nuovamente un video da proiettare.
 
-Un terzo pulsante, detto *di regia*, permette di:
+Flusso di comportamento dei pulsanti-spettatore: 
 
-- mettere in pausa un video in esecuzione o di ricominciare il *playback* se in pausa (pressione breve del pulsante)
-- spegnere o accendere l'applicazione (pressione lunga del pulsante)
+1.  premi un pulsante
+1.  il video va in riproduzione e i pulsanti diventano **disattivi** per tutta la durata della riproduzione
+2.  il *playback termina*, i pulsanti tornano di nuovo **attivi**
+3.  ricomincia dall'inizio
+
+Un terzo pulsante, detto *di regia*, sulla base del tipo di azione,permette di:
+
+- effettuare il **play/resume** di un filmato in esecuzione (pressione breve del pulsante)
+- **spegnere/accendere** l'applicazione (pressione prolungata del pulsante)
 
 
 https://user-images.githubusercontent.com/37317157/176033016-8ecd244e-8b42-4243-a83f-97786892f663.mp4
