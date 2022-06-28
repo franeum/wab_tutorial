@@ -36,6 +36,10 @@ e voglio associare il primo al pulsante 1 e il secondo al pulsante 2, dovrò rin
 2_pluto.mp4
 ```
 
+A questo punto sarà il software ad effettuare l'associazione con i pulsanti. E' opportuno che la cartella `VIDEO`, che contiene i file dei video, non abbia più di un file che inizi con lo stesso prefisso nella forma `n_`. In sostanza, è preferibile che la cartella contenga esclusivamente i due file da proiettare.
+
+---
+
 https://user-images.githubusercontent.com/37317157/176018686-cdb41813-6708-4d67-9808-05444a7b6e7d.mp4
 
 
